@@ -157,7 +157,7 @@ A Java application for managing grocery inventory and products efficiently.
 Frontend educational website prototype built with a focus on responsive design.
 <br>
 
-**Repository:**https://github.com/surajsingh99245-ops/COGNIVO
+**Repository:** https://github.com/surajsingh99245-ops/COGNIVO
 
 | Category | Details |
 |----------|---------|
