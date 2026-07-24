@@ -69,5 +69,60 @@ I'm a **B.Tech Computer Science & Engineering** student at **Global Group of Ins
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
+# 🚀 Featured Projects
+
+<details open>
+<summary><b>🧠 MindMate (Currently Building)</b></summary>
+
+A full-stack mental wellness platform focused on mood tracking, personalized insights, and a clean user experience.
+
+| Category | Details |
+|-----------|---------|
+| Frontend | React |
+| Backend | Spring Boot |
+| Database | MySQL |
+| Authentication | JWT |
+| Status | 🚧 In Progress |
+
+**Goals**
+- Daily mood tracking
+- Personalized recommendations
+- Secure authentication
+- Responsive design
+
+</details>
 
 ---
+
+<details>
+<summary><b>🛒 Grocery Management System</b></summary>
+
+A Java-based inventory management application built using Object-Oriented Programming principles.
+
+### Features
+
+- Product Management
+- CRUD Operations
+- Inventory Tracking
+- Search Functionality
+
+**Tech Stack**
+
+- Java
+- OOP
+
+</details>
+
+---
+
+<details>
+<summary><b>🎓 Cognivo</b></summary>
+
+A responsive educational website prototype focused on a modern learning experience.
+
+### Tech
+
+- HTML
+- CSS
+
+</details>
