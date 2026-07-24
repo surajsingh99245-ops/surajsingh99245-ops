@@ -135,8 +135,9 @@ A hyperlocal shopping platform that connects local businesses with nearby custom
 ---
 
 <details>
-<summary><strong>🛍 Grocery Management System</strong></summary>
-
+<summary><strong>🛍 Smart Grocery Store</strong></summary>
+ 
+ ## Repository ## https://github.com/surajsingh99245-ops/SmartGroceryStore
 <br>
 
 A Java application for managing grocery inventory and products efficiently.
