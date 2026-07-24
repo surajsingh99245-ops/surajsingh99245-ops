@@ -30,23 +30,22 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm **Suraj Singh**, a B.Tech Computer Science student and aspiring Software Engineer passionate about building modern, scalable, and user-focused applications.
+I'm **Suraj Singh**, a **B.Tech Computer Science** student passionate about building modern software that solves real-world problems.
 
-I enjoy developing full-stack projects with **Java, Spring Boot, React, and JavaScript**, while continuously strengthening my understanding of software engineering principles, system design, and data structures & algorithms.
+My primary focus is **Full-Stack Development** using **Java, Spring Boot, React, JavaScript, HTML, and CSS**. I enjoy turning ideas into practical applications while writing clean, maintainable, and scalable code.
 
-Alongside web development, I'm exploring AI-powered applications and modern engineering practices to build reliable, maintainable, and impactful software.
+Currently, I'm strengthening my backend development skills, practicing **Data Structures & Algorithms**, and exploring AI-powered applications to become a well-rounded software engineer.
 
 ### Current Interests
 
 - Full-Stack Development
 - Backend Engineering
-- REST API Development
-- React Ecosystem
 - Spring Boot
+- React
 - Data Structures & Algorithms
-- AI-powered Applications
+- Artificial Intelligence
 - Open Source
 
 ---
@@ -81,15 +80,14 @@ Alongside web development, I'm exploring AI-powered applications and modern engi
 ---
 
 </div>
-# 🤖 AI & Emerging Technologies
+# AI & Software Engineering
 
-| Domain | Level | Details |
-|---------|:-----:|---------|
-| AI Agents | 🌱 Learning | Exploring AI agents and automation workflows |
-| Prompt Engineering | ⭐ Intermediate | Building structured prompts for software development |
-| Full-Stack AI | 🌱 Learning | Integrating AI capabilities into web applications |
-| Machine Learning | 🌱 Beginner | Google × Kaggle AI Agents Intensive Course |
-| Software Engineering | 🚀 Active | Applying clean architecture and scalable development practices |
+| Area | Status | Description |
+|------|:------:|-------------|
+| AI Agents | 🌱 Learning | Exploring AI agent workflows and automation |
+| Prompt Engineering | 📝 Practicing | Using structured prompts for software development |
+| Machine Learning | 🌱 Beginner | Completed Google × Kaggle AI Agents Intensive Course |
+| Software Engineering | 🚀 Active | Building scalable applications with modern development practices |
 
 ---
 # 🚀 Featured Projects
@@ -163,15 +161,30 @@ Frontend educational website prototype built with a focus on responsive design.
 </details>
 
 ---
-# 💼 Engineering Journey
+# Engineering Journey
 
-### Current Focus
+## Current Focus
 
-- 🚀 Building full-stack applications with **React** and **Spring Boot**
-- ☕ Strengthening backend development using **Java**
-- 🧩 Practicing **Data Structures & Algorithms** on LeetCode
-- 🤖 Exploring AI-powered software and agentic workflows
-- 📚 Continuously improving software engineering fundamentals
+> 🚀 Building **MindMate** using **React** and **Spring Boot**
+
+> ☕ Strengthening backend development with **Java**
+
+> 🧩 Practicing **Data Structures & Algorithms** on **LeetCode**
+
+> 🤖 Exploring **AI-powered applications** and modern software engineering
+
+> 📚 Continuously improving my problem-solving and development skills
+
+---
+# Certifications
+
+<div align="center">
+
+| Provider | Certification | Status |
+|----------|---------------|:------:|
+| Google × Kaggle | 5-Day AI Agents Intensive Course | ✅ Completed |
+
+</div>
 
 ---
 # 💻 Coding Profiles
@@ -188,41 +201,27 @@ Frontend educational website prototype built with a focus on responsive design.
 
 </div>
 
----
-# 📊 GitHub Analytics
+--- # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajsingh99245-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=surajsingh99245-ops&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsingh99245-ops&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=surajsingh99245-ops&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=surajsingh99245-ops&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-# 📈 Contribution Activity
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajsingh99245-ops&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+*"Building software that is simple, scalable, and meaningful."*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24"/>
+
+</div>
