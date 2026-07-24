@@ -80,7 +80,7 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 ---
 
 </div>
-# AI & Software Engineering
+AI & Software Engineering
 
 | Area | Status | Description |
 |------|:------:|-------------|
