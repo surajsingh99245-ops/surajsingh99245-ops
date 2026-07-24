@@ -225,3 +225,12 @@ Frontend educational website prototype built with a focus on responsive design.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24"/>
 
 </div>
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/surajsingh99245-ops/surajsingh99245-ops/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
