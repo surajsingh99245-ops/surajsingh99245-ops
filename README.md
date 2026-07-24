@@ -1,18 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:8B5CF6,100:4F46E5&text=Suraj%20Singh&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60"/>
-
-# Hi 👋 I'm Suraj Singh
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Java+%7C+React+Developer;Spring+Boot+Learner;Building+Real+World+Projects;Always+Learning+New+Things"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Suraj%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Global%20Group%20of%20Institutes-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/India-FF9933?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;React+Developer;Spring+Boot+Learner;Building+Real+World+Applications;Always+Learning"/>
 
 <br><br>
 
@@ -21,12 +13,10 @@
 </a>
 
 <a href="https://github.com/surajsingh99245-ops">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=surajsingh99245-ops&style=for-the-badge&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=surajsingh99245-ops&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -34,13 +24,33 @@
 
 # 👨‍💻 About Me
 
-I'm **Suraj Singh**, a B.Tech Computer Science student passionate about Software Engineering and Full-Stack Development.
+```java
+public class SurajSingh {
 
-- 💻 Building scalable applications using **Java** and **React**
-- 🚀 Currently learning **Spring Boot**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🌱 Building projects to strengthen my software engineering skills
-- 🎯 Looking for Software Engineering Internship opportunities
+    String role = "Software Engineer";
+
+    String[] languages = {
+        "Java",
+        "JavaScript",
+        "C",
+        "C++"
+    };
+
+    String[] frontend = {
+        "React",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Bootstrap"
+    };
+
+    String backend = "Spring Boot";
+
+    String currentGoal =
+        "Become a Full-Stack Software Engineer";
+
+}
+```
 
 ---
 
@@ -52,149 +62,114 @@ I'm **Suraj Singh**, a B.Tech Computer Science student passionate about Software
 
 </div>
 
+---# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 MindMate
+
+AI-powered mental wellness platform.
+
+**Tech Stack**
+
+- ⚛️ React
+- ☕ Spring Boot
+- 🗄️ MySQL
+- 🔐 JWT
+
+**Status**
+
+🚧 Currently Building
+
 ---
 
-# 🚀 Featured Projects
-
-<details open>
-
-<summary><b>🧠 MindMate (Currently Building)</b></summary>
-
-AI-assisted mental wellness platform.
-
-| Category | Details |
-|----------|----------|
-| Frontend | React |
-| Backend | Spring Boot |
-| Database | MySQL |
-| Authentication | JWT |
-| Status | 🚧 In Progress |
-
-### Planned Features
+⭐ Features
 
 - Mood Tracking
-- Daily Journal
 - AI Insights
+- Daily Journal
 - Secure Authentication
-- Responsive Design
+- Responsive UI
 
-</details>
+</td>
+
+<td width="50%">
+
+### 🛒 TownCart
+
+Hyperlocal shopping platform connecting nearby shopkeepers with customers.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+**Status**
+
+✅ Completed
 
 ---
 
-<details>
+⭐ Features
 
-<summary><b>🛒 Grocery Management System</b></summary>
+- Product Listings
+- Responsive Design
+- Shop Discovery
+- Modern UI
 
-Inventory Management System built in Java.
+</td>
 
-### Features
+</tr>
 
-- Product Management
+<tr>
+
+<td>
+
+### 🛍 Grocery Management System
+
+Inventory management application.
+
+**Tech Stack**
+
+- Java
+- OOP
+
+---
+
+⭐ Features
+
 - CRUD Operations
-- Search
+- Product Search
 - Inventory Tracking
 
-**Tech Stack**
+</td>
 
-Java • OOP
+<td>
 
-</details>
+### 🎓 Cognivo
 
----
-
-<details>
-
-<summary><b>🎓 Cognivo</b></summary>
-
-Responsive educational website.
+Educational website prototype.
 
 **Tech Stack**
 
-HTML • CSS
-
-</details>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=surajsingh99245-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsingh99245-ops&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=surajsingh99245-ops&theme=tokyonight&hide_border=true"/>
-
-</div>
+- HTML
+- CSS
 
 ---
 
-# 🏆 GitHub Trophies
+⭐ Features
 
-<div align="center">
+- Responsive Design
+- Modern Interface
 
-<img src="https://github-profile-trophy.vercel.app/?username=surajsingh99245-ops&theme=tokyonight&no-frame=true&column=4"/>
+</td>
 
-</div>
+</tr>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajsingh99245-ops&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</table>
 
 ---
-
-# 🎯 Current Focus
-
-```yaml
-Learning:
-  - Spring Boot
-  - Data Structures & Algorithms
-  - System Design
-
-Building:
-  - MindMate
-  - Portfolio Website
-
-Goal:
-  - Software Engineering Internship
-```
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:surajsingh99245@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/surajsingh99245-ops">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Building software that solves real-world problems.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6C63FF,50:8B5CF6,100:4F46E5"/>
-
-</div>
