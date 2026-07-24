@@ -201,7 +201,8 @@ Frontend educational website prototype built with a focus on responsive design.
 
 </div>
 
---- # GitHub Analytics
+--- 
+# GitHub Analytics
 
 <div align="center">
 
@@ -225,7 +226,8 @@ Frontend educational website prototype built with a focus on responsive design.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24"/>
 
 </div>
-# 🐍 Contribution Snake
+
+ # 🐍 Contribution Snake
 
 <div align="center">
 
