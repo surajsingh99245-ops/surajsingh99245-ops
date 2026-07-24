@@ -80,6 +80,7 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 ---
 
 </div>
+
 # 🤖 AI & Software Engineering
 
 | Area | Status | Description |
@@ -89,7 +90,6 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 | Machine Learning | 🌱 Beginner | Completed Google × Kaggle AI Agents Intensive Course |
 | Software Engineering | 🚀 Active | Building scalable applications with modern development practices |
 
----
 ---
 # 🚀 Featured Projects
 
