@@ -126,3 +126,36 @@ A responsive educational website prototype focused on a modern learning experien
 - CSS
 
 </details>
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajsingh99245-ops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsingh99245-ops&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=surajsingh99245-ops&theme=tokyonight&hide_border=true"/>
+
+</div>
+ 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=surajsingh99245-ops&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajsingh99245-ops&theme=tokyo-night&hide_border=true"/>
+
+</div>
