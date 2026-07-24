@@ -122,7 +122,6 @@ A hyperlocal shopping platform that connects local businesses with nearby custom
 
 | Category | Details |
 |----------|---------|
-| Status | ✅ Completed |
 | Stack | HTML, CSS, JavaScript, Bootstrap |
 | Features | Product Listings, Responsive UI, Modern Design |
 
