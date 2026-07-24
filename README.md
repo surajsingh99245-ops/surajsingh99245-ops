@@ -166,7 +166,7 @@ Frontend educational website prototype built with a focus on responsive design.
 
 ## Current Focus
 
-> 🚀 Building **MindMate** using **React** and **Spring Boot**
+> 🚀 Building **MindMate** using **HTML,CSS** and **Javascript**
 
 > ☕ Strengthening backend development with **Java**
 
