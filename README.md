@@ -118,10 +118,10 @@ AI-powered mental wellness platform focused on helping users track moods, mainta
 <details>
 <summary><strong>🛒 TownCart</strong></summary>
 
-**Repository:** https://github.com/surajsingh99245-ops/TownCart
 <br>
 
 A hyperlocal shopping platform that connects local businesses with nearby customers.
+**Repository:** https://github.com/surajsingh99245-ops/TownCart
 
 | Category | Details |
 |----------|---------|
@@ -152,9 +152,9 @@ A Java application for managing grocery inventory and products efficiently.
 <details>
 <summary><strong>🎓 Cognivo</strong></summary>
 <br>
+Frontend educational website prototype built with a focus on responsive design.
 
 **Repository:**https://github.com/surajsingh99245-ops/COGNIVO
-Frontend educational website prototype built with a focus on responsive design.
 
 | Category | Details |
 |----------|---------|
