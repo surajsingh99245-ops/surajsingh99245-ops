@@ -100,15 +100,15 @@ AI-powered mental wellness platform focused on helping users track moods, mainta
  
 **Repository:** https://github.com/surajsingh99245-ops/MindMate
 
-| Category | Details |
-|----------|---------|
-| Status | 🚧 In Development |
-| Frontend | React |
-| Backend | Spring Boot |
-| Database | MySQL |
-| Authentication | JWT |
-| Features | Mood Tracking, Daily Journal, AI-ready Architecture |
-
+| Category        | Details                                                                 |
+|-----------------|-------------------------------------------------------------------------|
+| Status          | ✅ Completed                                                            |
+| Frontend        | HTML5, CSS3, JavaScript                                                 |
+| Backend         | Node.js, Express.js                                                     |
+| Database        | PostgreSQL                                                              |
+| AI Integration  | Google Gemini API                                                       |
+| Authentication  | Username & Password Authentication                                      |
+| Features        | AI Chat, Mood Tracking, Daily Journal, Monthly Reports, User Dashboard  |
 </details>
 
 ---
