@@ -102,7 +102,6 @@ AI-powered mental wellness platform focused on helping users track moods, mainta
 
 | Category        | Details                                                                 |
 |-----------------|-------------------------------------------------------------------------|
-| Status          | ✅ Completed                                                            |
 | Frontend        | HTML5, CSS3, JavaScript                                                 |
 | Backend         | Node.js, Express.js                                                     |
 | Database        | PostgreSQL                                                              |
