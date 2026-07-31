@@ -123,7 +123,7 @@ A hyperlocal shopping platform that connects local businesses with nearby custom
 
 | Category | Details |
 |----------|---------|
-| Stack | HTML, CSS,  Bootstrap |
+| Stack | HTML, CSS, Javascript |
 | Features | Product Listings, Responsive UI, Modern Design |
 
 </details>
